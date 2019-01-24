@@ -1,2 +1,2 @@
 <?php
-echo "LINE BOT \"Informatics @BUU\"  Bye Witchayada";
+echo "LINE BOT \"Informatics @BUU\"  By Witchayada";
